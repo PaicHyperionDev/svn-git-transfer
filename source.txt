@@ -1,0 +1,1 @@
+http://yourcompany.com/svn/your_repo/trunk/master/android/>http://yourcompany.com/gitlab/your_repo/android.git 
